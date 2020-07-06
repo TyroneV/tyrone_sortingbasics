@@ -1,0 +1,7 @@
+C:\Users\ZeroR\source\repos\tyrone_sortingbasics\bin\Debug\tyrone_sortingbasics.exe.config
+C:\Users\ZeroR\source\repos\tyrone_sortingbasics\bin\Debug\tyrone_sortingbasics.exe
+C:\Users\ZeroR\source\repos\tyrone_sortingbasics\bin\Debug\tyrone_sortingbasics.pdb
+C:\Users\ZeroR\source\repos\tyrone_sortingbasics\obj\Debug\tyrone_sortingbasics.csprojAssemblyReference.cache
+C:\Users\ZeroR\source\repos\tyrone_sortingbasics\obj\Debug\tyrone_sortingbasics.csproj.CoreCompileInputs.cache
+C:\Users\ZeroR\source\repos\tyrone_sortingbasics\obj\Debug\tyrone_sortingbasics.exe
+C:\Users\ZeroR\source\repos\tyrone_sortingbasics\obj\Debug\tyrone_sortingbasics.pdb
